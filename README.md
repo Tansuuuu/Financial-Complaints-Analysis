@@ -15,4 +15,4 @@ Also **Timely respond** was slightly **98.1%** which is good result for company.
 
 
 <img src =
-"https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/bikCapture.PNG" width="350" height="auto" />
+"https://anthonysmoak.files.wordpress.com/2016/05/37832342_s.PNG" width="350" height="auto" />
