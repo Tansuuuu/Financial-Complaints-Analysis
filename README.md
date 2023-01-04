@@ -14,4 +14,4 @@ Also **Timely respond** was slightly **98.1%** which is good result for company.
 <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
 
 <img src =
-"https://github.com/Tansuuuu/Bike-Sales-Project/blob/main/bikCapture.PNG" width="350" height="auto" />
+"https://github.com/Tansuuuu/https://anthonysmoak.files.wordpress.com/2016/05/37832342_s.jpg" width="350" height="auto" />
