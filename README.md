@@ -21,7 +21,7 @@ Data Visualization/Presentation:
 - My home: <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a> 🌐
 
 
-# Financial-Complaints-Analysis
+# Financial-Complaints-Analysis Dashboard
 
 ## Data Cleaning
 I removed duplicates and i changed some of the wrong formats.
