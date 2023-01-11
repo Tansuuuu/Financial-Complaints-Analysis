@@ -25,14 +25,33 @@ Data Visualization/Presentation:
 
 ## Description
 
+Utilizing Tableau to display and analyze Tri-Bank company financial complaints.
+
+The main product of this report is the Tableau dashboard. Interactive dashboard focuses on various projects for company complaints. This company handles many products such as credit cards, mortgage, and other bank account all around the United States. As a result of the analysis and presentation, they have the highest complaints by checking or saving account and based on this problem they have the managing account issue.CA was the most complaints state because of the population, and the highest complaint received on the web platform at the same time the timeliest respond was on the website platform. 
+
+Dashboard link: https://public.tableau.com/app/profile/tansu.ayaz/viz/CreditCardComplaints_16731340972540/Story3?publish=yes
+
+The dashboard features:
+
+- The highest total complaints were in 2018 following by 2019 and 2020.
+- The consumer has the highest number of complaints on the credit card or saving account.
+- The most complaint by issue was managing an account.
+- The highest complaint received on the web platform, but the most timely respond was also web platform so, we can say that they have a positive relationship  which is very good result.
+- In additon, disputed rate was respectively almost %10.
+-  North Dakota is the lowest timely response state.
+- California is the most complaints state(1,241) following by NY(1,062) and FL(1,050).
 
 ## Vizulizations
-I created charts using the necessary columns and then transferred them to Tableau.
+I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
-## Takeaways
-The analyze showed that **credit card** has the most complaints by consumer.
-In addition, **Managing account** has the most complaints issue and **Website** platform has the highest timely respond.
-Also **Timely respond** was slightly **98.1%** which is good result for company.
+![image] <img src = "file:///C:/Users/Lucidmindz/Desktop/Tri-Bank%20company%20Analysis%20Picture.PNG" />
+![image] (https://user-images.githubusercontent.com/77589773/128744503-235701f7-dbac-44ed-9b76-188aa8fb67c7.png)
+
+## Technologies
+To complete this project, I used the following tools:
+- Excel
+- Tableau
+
 
 <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
 
