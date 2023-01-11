@@ -42,6 +42,9 @@ The dashboard features:
 - California is the most complaints state(1,241) following by NY(1,062) and FL(1,050).
 
 ## Vizulizations
+<img src =
+"https://c8.alamy.com/comp/W1GW53/kpi-key-performance-indicator-business-and-technology-concept-multiple-exposure-mixed-media-financial-concept-on-blurred-background-W1GW53.jpg" width="350" height="auto" />
+
 I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
 ![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg" />
@@ -57,5 +60,3 @@ To complete this project, I used the following tools:
 <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
 
 
-<img src =
-"https://c8.alamy.com/comp/W1GW53/kpi-key-performance-indicator-business-and-technology-concept-multiple-exposure-mixed-media-financial-concept-on-blurred-background-W1GW53.jpg" width="350" height="auto" />
