@@ -23,8 +23,8 @@ Data Visualization/Presentation:
 
 # Financial-Complaints-Analysis Dashboard
 
-## Data Cleaning
-I removed duplicates and i changed some of the wrong formats.
+## Description
+
 
 ## Vizulizations
 I created charts using the necessary columns and then transferred them to Tableau.
