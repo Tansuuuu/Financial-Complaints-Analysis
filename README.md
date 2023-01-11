@@ -44,8 +44,9 @@ The dashboard features:
 ## Vizulizations
 I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
-![image] <img src = "file:///C:/Users/Lucidmindz/Desktop/Tri-Bank%20company%20Analysis%20Picture.PNG" />
-![image] (https://user-images.githubusercontent.com/77589773/128744503-235701f7-dbac-44ed-9b76-188aa8fb67c7.png)
+![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg" />
+
+![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg" />
 
 ## Technologies
 To complete this project, I used the following tools:
