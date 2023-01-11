@@ -46,7 +46,7 @@ I created many kind of charts using the necessary columns and then transferred t
 
 ![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg" />
 
-![image] <img src = "[https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg](https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/2Tri-Bank%20Company%20Analysis.jpg)" />
+![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/2Tri-Bank%20Company%20Analysis.jpg" />
 
 ## Technologies
 To complete this project, I used the following tools:
