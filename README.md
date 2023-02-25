@@ -44,11 +44,11 @@ The dashboard features:
 
 I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
-<img src = "https://github.com/tansu-ayaz/Financial-Complaints-Analysis/blob/main/kpi.jpg" />
-
 
 <img src =
 "https://c8.alamy.com/comp/W1GW53/kpi-key-performance-indicator-business-and-technology-concept-multiple-exposure-mixed-media-financial-concept-on-blurred-background-W1GW53.jpg" width="350" height="auto" />
+
+<img src = "https://github.com/tansu-ayaz/Financial-Complaints-Analysis/blob/main/kpi.jpg" />
 
 
 ![image] <img src = "https://github.com/Tansuuuu/Financial-Complaints-Analysis/blob/main/Tri-Bank%20company%20Analysis%20Picture%20-%20Copy.jpg" />
