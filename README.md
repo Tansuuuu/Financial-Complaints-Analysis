@@ -46,7 +46,7 @@ I created many kind of charts using the necessary columns and then transferred t
 
 <img src = "https://github.com/tansu-ayaz/Financial-Complaints-Analysis/blob/main/kpi.jpg
 " />
-https://github.com/tansu-ayaz/Financial-Complaints-Analysis/blob/main/kpi.jpg
+
 
 <img src =
 "https://c8.alamy.com/comp/W1GW53/kpi-key-performance-indicator-business-and-technology-concept-multiple-exposure-mixed-media-financial-concept-on-blurred-background-W1GW53.jpg" width="350" height="auto" />
