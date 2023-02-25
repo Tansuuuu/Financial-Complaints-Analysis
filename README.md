@@ -44,8 +44,7 @@ The dashboard features:
 
 I created many kind of charts using the necessary columns and then transferred them to Tableau.
 
-<img src = "https://github.com/tansu-ayaz/Financial-Complaints-Analysis/blob/main/kpi.jpg
-" />
+<img src = "https://github.com/tansu-ayaz/Financial-Complaints-Analysis/blob/main/kpi.jpg" />
 
 
 <img src =
