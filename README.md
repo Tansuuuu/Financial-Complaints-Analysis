@@ -28,7 +28,7 @@ Utilizing Tableau to display and analyze Tri-Bank company financial complaints.
 
 The main product of this report is the Tableau dashboard. Interactive dashboard focuses on various projects for company complaints. This company handles many products such as credit cards, mortgage, and other bank account all around the United States. As a result of the analysis and presentation, they have the highest complaints by checking or saving account and based on this problem they have the managing account issue.CA was the most complaints state because of the population, and the highest complaint received on the web platform at the same time the timeliest respond was on the website platform. 
 
-Dashboard link: https://public.tableau.com/app/profile/tansu.ayaz/viz/CreditCardComplaints_16731340972540/Story3?publish=yes
+<a href="https://public.tableau.com/app/profile/tansu.ayaz/viz/CreditCardComplaints_16731340972540/Story3?publish=yes">Go to my Dashboard link</a>
 
 The dashboard features:
 
