@@ -60,6 +60,6 @@ To complete this project, I used the following tools:
 - Tableau
 
 
-<a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
+<a href="https://www.linkedin.com/in/tansu-ayaz/">Go to my Linkedin</a>
 
 
